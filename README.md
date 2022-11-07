@@ -1,10 +1,10 @@
 # mycode2022
 Tracking my Python code
 
-# mycode (Project Title)
+# mycode (Learn Python)
 
-One Paragraph of your project description goes here. Describe what you're trying to do.
 What is the purpose of putting up this repo?
+- To improve my Python tekkers
 
 ## Getting Started
 
